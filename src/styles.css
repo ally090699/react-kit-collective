@@ -227,7 +227,7 @@ label, #contactform h6{
 
 
 
-#inputname, #inputphone, #inputemail, #inputMessage{
+#inputname, #inputphone, #inputemail, #inputMessage, #inputusername, #inputpassword{
   display:inline-block;
 }
 
@@ -486,7 +486,7 @@ footer .copyright p{
   color: red;
 }
 
-#inputname, #inputphone, #inputemail, #productnum, #inputMessage{
+#inputname, #inputphone, #inputemail, #productnum, #inputMessage, #inputusername, #inputpassword{
   padding: 10px;
   border: solid 1px rgb(217, 205, 180);
   color:rgba(135, 134, 132, 0.793);

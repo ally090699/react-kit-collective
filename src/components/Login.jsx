@@ -28,7 +28,7 @@ export default function Login() {
         <div className="container-fluid">
             <section id="contactsect">
                 <div data-bs-offset="0">
-                    <h4 id="contact-title"><span role="img" aria-label="Person emoji"></span> Login</h4>
+                    <h4 id="contact-title">Login</h4>
                     <form>
                         <div id="contactform">                            
                             <label className="geninput" htmlFor="username">Username
@@ -52,7 +52,9 @@ export default function Login() {
                             />
                             {statusMessages.username && <p className="statusmsg"><i>{statusMessages.username}</i></p>}
 
-                            <label className="geninput" htmlFor="password">Password</label>
+                            <label className="geninput" htmlFor="password">Password
+                                <span className={errors.username ? "required" : ""}>*</span>
+                            </label>
                             <input
                                 type="text"
                                 id="inputpassword"

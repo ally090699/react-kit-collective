@@ -22,7 +22,7 @@ export default function About(){
         <div class="container-fluid w-100"  onScroll={scrollFunction}>
             <section id="aboutsect">
                 <div data-bs-offset="0" >
-                    <h4 id="about-title"><span role="img" aria-label="Girl emoji">👩🏻</span> About Us</h4>
+                    <h4 id="about-title">About Us</h4>
                     <div class="aboutsect-content">
                         <img src={img1} class="aboutsect-image" alt="Sample Summer Top Crochet Kit Contents"/>
                         <div class="aboutsect-text">
