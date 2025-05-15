@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-kit-collective/static/css/main.9c17a0ce.chunk.css",
+    "main.js": "/react-kit-collective/static/js/main.b48147c6.chunk.js",
+    "main.js.map": "/react-kit-collective/static/js/main.b48147c6.chunk.js.map",
+    "runtime-main.js": "/react-kit-collective/static/js/runtime-main.df04ceaf.js",
+    "runtime-main.js.map": "/react-kit-collective/static/js/runtime-main.df04ceaf.js.map",
+    "static/js/2.1140cd96.chunk.js": "/react-kit-collective/static/js/2.1140cd96.chunk.js",
+    "static/js/2.1140cd96.chunk.js.map": "/react-kit-collective/static/js/2.1140cd96.chunk.js.map",
+    "index.html": "/react-kit-collective/index.html",
+    "precache-manifest.9d6c2c14cd8fa394133b2e111ffc7ea0.js": "/react-kit-collective/precache-manifest.9d6c2c14cd8fa394133b2e111ffc7ea0.js",
+    "service-worker.js": "/react-kit-collective/service-worker.js",
+    "static/css/main.9c17a0ce.chunk.css.map": "/react-kit-collective/static/css/main.9c17a0ce.chunk.css.map",
+    "static/media/about-1.jpg": "/react-kit-collective/static/media/about-1.ac4e5a7d.jpg",
+    "static/media/about-2.jpg": "/react-kit-collective/static/media/about-2.95325c75.jpg",
+    "static/media/aboutteam-1.jpg": "/react-kit-collective/static/media/aboutteam-1.807b4f4c.jpg",
+    "static/media/aboutteam-2.jpg": "/react-kit-collective/static/media/aboutteam-2.4e7fb59e.jpg",
+    "static/media/aboutteam-3.jpg": "/react-kit-collective/static/media/aboutteam-3.c73edc43.jpg",
+    "static/media/banner.jpg": "/react-kit-collective/static/media/banner.7ce0e8b8.jpg",
+    "static/media/carousel-1.jpg": "/react-kit-collective/static/media/carousel-1.e05d4464.jpg",
+    "static/media/carousel-2.jpg": "/react-kit-collective/static/media/carousel-2.2f5f31ee.jpg",
+    "static/media/carousel-3.jpg": "/react-kit-collective/static/media/carousel-3.5b94fe69.jpg",
+    "static/media/styles.css": "/react-kit-collective/static/media/parallax.96bd4392.jpg",
+    "static/media/product-1.jpg": "/react-kit-collective/static/media/product-1.8c75c4df.jpg",
+    "static/media/product-2.jpg": "/react-kit-collective/static/media/product-2.b0a4e707.jpg",
+    "static/media/product-3.jpg": "/react-kit-collective/static/media/product-3.b3699668.jpg",
+    "static/media/product-4.jpg": "/react-kit-collective/static/media/product-4.6603c996.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df04ceaf.js",
+    "static/js/2.1140cd96.chunk.js",
+    "static/css/main.9c17a0ce.chunk.css",
+    "static/js/main.b48147c6.chunk.js"
+  ]
+}
