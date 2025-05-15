@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a8b7254d1cff291988ca1a64dec6210",
+    "revision": "cb6a5786ec539871ed23eb7f9f6d9654",
     "url": "/react-kit-collective/index.html"
   },
   {
-    "revision": "715682c376404562d699",
+    "revision": "73499b67def980e9877e",
     "url": "/react-kit-collective/static/css/main.cb4f20ce.chunk.css"
   },
   {
-    "revision": "ee54348fd8588ad0e5b9",
-    "url": "/react-kit-collective/static/js/2.1140cd96.chunk.js"
+    "revision": "568b13de328ac9f40b71",
+    "url": "/react-kit-collective/static/js/2.796a7007.chunk.js"
   },
   {
-    "revision": "715682c376404562d699",
-    "url": "/react-kit-collective/static/js/main.0ab8e4dd.chunk.js"
+    "revision": "73499b67def980e9877e",
+    "url": "/react-kit-collective/static/js/main.a4fdd51b.chunk.js"
   },
   {
-    "revision": "28fe43d8dfe7306aefcd",
-    "url": "/react-kit-collective/static/js/runtime-main.df04ceaf.js"
+    "revision": "114a340e3d1ba1ce307e",
+    "url": "/react-kit-collective/static/js/runtime-main.2b68bdfa.js"
   },
   {
     "revision": "ac4e5a7db6fd681bcfeb00c0e24e8426",
