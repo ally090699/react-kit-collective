@@ -1,5 +1,5 @@
 .main{
-  margin: 20px;
+  margin: 10px;
 }
 
 .flex-col{
@@ -150,6 +150,10 @@ p{
   width: 140px;
   float: left;
   margin-right: 15px;
+}
+
+#memberlist{
+  padding: 10px;
 }
 
 #member {
